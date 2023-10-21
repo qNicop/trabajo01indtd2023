@@ -33,9 +33,9 @@ Nico está considerando sus opciones de transporte para ir al trabajo. Tiene tre
 
 Nico tiene dos estados de la naturaleza para considerar:
 
-**Estado de la Naturaleza 1: Disponibilidad del Colega:** En este estado, su colega está disponible para compartir el viaje en carpooling.
+**Estado de la Naturaleza 1: Disponibilidad del Colega:** En este estado, su colega está disponible para compartir el viaje.
 
-**Estado de la Naturaleza 2: Indisponibilidad del Colega:** En este estado, su colega no puede compartir el viaje en carpooling.
+**Estado de la Naturaleza 2: Indisponibilidad del Colega:** En este estado, su colega no puede compartir el viaje.
 
 ¿Cuál es la opción más conveniente para Nico en términos de costo total durante el primer año? Representa las ecuaciones de alternativas para cada opción de transporte y estado de la naturaleza
 
