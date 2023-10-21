@@ -25,11 +25,11 @@ m1A
 
 Nico está considerando sus opciones de transporte para ir al trabajo. Tiene tres alternativas:
 
-1. **Conducir su propio automóvil:** Nico puede conducir su automóvil al trabajo. El costo mensual de gasolina y estacionamiento es de 200. Además, hay una pequeña probabilidad de sufrir una multa de estacionamiento de 50 por mes.
+1. **Conducir su propio automóvil:** Nico puede conducir su automóvil al trabajo. El costo mensual de gasolina y estacionamiento es de 200 euros. Nico tiene un colega que trabaja cerca de su trabajo, con el que puede compartir el gasto de la gasolina a medias si coinciden en horario
 
-2. **Tomar el transporte público:** Nico puede optar por usar el transporte público para ir al trabajo. El costo mensual del pase de transporte público es de 80. Sin embargo, ocasionalmente, el transporte público puede tener retrasos, lo que resulta en llegar tarde al trabajo, lo que le cuesta 30 adicionales en promedio por mes en tiempo perdido.
+2. **Tomar el transporte público:** Nico puede optar por usar el transporte público para ir al trabajo. El costo mensual del pase de transporte público es de 80. Sin embargo, si su colega opta por ir con Nico en transporte público pueden sacar un bono con un 15% de descuento para ambos.
 
-3. **Compartir con un colega:** Nico tiene un colega con el que puede hacer carpooling. Compartir el automóvil con su colega reduce su costo de gasolina y estacionamiento a 120 por mes. También disminuye la probabilidad de multa de estacionamiento a la mitad, es decir, 25 por mes. Sin embargo, si su colega no está disponible, Nico debe conducir solo y pagar el costo normal de 200.
+3. **Blablacar:** Nico puede por irse al trabajo en blablacar costandole el transporte 160 euros mensuales,si su colega se apunta con Nico al anunciante de blablacar el transporte le costaria un 30% menos.
 
 Nico tiene dos estados de la naturaleza para considerar:
 
@@ -38,3 +38,5 @@ Nico tiene dos estados de la naturaleza para considerar:
 **Estado de la Naturaleza 2: Indisponibilidad del Colega:** En este estado, su colega no puede compartir el viaje en carpooling.
 
 ¿Cuál es la opción más conveniente para Nico en términos de costo total durante el primer año? Representa las ecuaciones de alternativas para cada opción de transporte y estado de la naturaleza
+
+
